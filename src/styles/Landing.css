@@ -1,0 +1,412 @@
+.heading_text {
+    background-image: url(https://www.tallentex.com/assets/images/bg/home-two-banner.jpg);
+    background-repeat: no-repeat;
+}
+
+.heading_text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.main_text {
+    color: #071A40;
+    font-size: 46px;
+    text-align: left;
+    font-weight: 700;
+    width:
+        580px;
+}
+
+.heading_content_text {
+    color: #525FE1;
+}
+
+.heading_content_text .para {
+    color: #525FE1;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 26px;
+}
+
+.rank {
+    margin-bottom: 30px;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 32px;
+    color: #6F6B80;
+}
+
+.trusted_text {
+    color: #6F6B80;
+    font-size: 16px;
+}
+
+.resgister_btn {
+    border-radius: 5px;
+    display: inline-block;
+    height: 60px;
+    line-height: 60px;
+    color: #fff;
+    background: #525FE1;
+    padding: 0 30px;
+    font-size: 18px;
+    font-weight: 700;
+    transition: 0.4s;
+    border: 0 none;
+    margin-top: 30px;
+    cursor: pointer;
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+}.resgister_btn span{
+    color: #fff;
+    
+}
+
+.resgister_btn:hover {
+    background-color: #000000;
+}
+
+.card_conetnt {
+    width: 50%;
+}
+
+.card_conetnt .card {
+    background: #fff;
+    box-shadow: 0px 8px 30px rgba(0, 0, 0, 0.06);
+    border-radius: 5px;
+    text-align: center;
+    /* padding: 80px 20px; */
+    /* margin: 50px 50px; */
+    padding: 40px;
+    height: 290px;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+
+.exam_content {
+    margin-bottom: 30px;
+}
+
+.exam_content i {
+    color: #F86F03;
+}
+
+.card_conetnt .card h1 {
+    font-size: 35px;
+}
+
+.card_conetnt {
+    display: flex;
+}
+
+.exam_content i {
+    min-width: 60px;
+    width: 60px;
+    height: 60px;
+    border-radius: 100%;
+    background: rgba(251, 124, 86, 0.1);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 25px;
+}
+
+.about_content {
+    display: flex;
+    align-items: center;
+    margin: 60px;
+}
+
+.card_conetnt_text {
+    width: 50%;
+}
+
+.card_conetnt_text h1 {
+    font-size: 40px;
+}
+
+.exam_date {
+    color: #F86F03;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.content_para {
+    margin: 20px 0 20px 0;
+    font-size: 16px;
+    /* width: 800px; */
+}
+
+.exam_content {
+    display: flex;
+    align-items: center;
+}
+
+.exam_content_text h1 {
+    font-size: 20px;
+    margin-bottom: 5px;
+
+}
+
+.exam_content_text p {
+    color: #6F6B80;
+    font-weight: 500;
+    font-size: 16px;
+    margin: 0 0 30px;
+}
+
+.declear_para {
+    width: 500px;
+}
+
+.unique {
+    background-image: url(https://www.tallentex.com/assets/images/bg/home-two-about-us.jpg);
+}
+
+.unique_content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+}
+
+.unique_image {
+    width: 50%;
+    padding-left: 80px;
+}
+
+.unique_image img {
+    padding: 15px;
+
+}
+
+.unique_text span {
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 26px;
+    color: #525FE1;
+    display: inline-block;
+    text-transform: uppercase;
+    margin-bottom: 5px;
+    letter-spacing: 0.1em;
+}
+
+.textpara {
+    font-size: 20px;
+    color: #6F6B80;
+    padding-top: 20px;
+    font-weight: 400;
+}
+
+.unique_content_text i {
+    min-width: 60px;
+    width: 60px;
+    height: 60px;
+    border-radius: 100%;
+    background: #F86F03;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 20px;
+    color: #fff;
+}
+.uni_text p{
+    margin-top: 10px;
+    line-height: 1.67;
+}
+.unique_content_text {
+    display: flex;
+}
+
+.unique_content_text_card {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px 80px 20px 80px;
+}.allens{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}.left_image,.right_content{
+    width: 50%;
+}.left_image{
+    padding-left: 80px;
+}.left_image .pop_image{
+    position: absolute;
+    margin-left: 300px;
+    margin-top: -200px;
+}.right_content span{
+    font-weight: bold;
+}.right_content p{
+    padding-top: 20px;
+    line-height: 1.8;
+    font-size: 16px;
+}.different{
+    background-image: url(https://www.tallentex.com/assets/images/bg/home-one-service.jpg);
+    margin-top: 55px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}.different span{
+    font-weight: bold;
+    padding-top: 50px;
+}.teelentex_card{
+display: flex;
+gap: 50px;
+margin-top: 50px;
+}
+.teelentex_card .card_content{
+    padding: 30px 28px;
+    background: #fff;
+    border-radius: 5px;
+    transition: 0.4s;
+    position: relative;
+    z-index: 2;
+    min-height: 350px;
+    align-items: flex-start;
+    /* height: 400px; */
+    width: 360px;	transition: 0.4s ease-out;
+    margin-bottom: 40px;
+}
+.teelentex_card .card_content:hover{
+    transform: translatey(30px)
+}.card_content i{
+    width: 70px;
+    height: 70px;
+    background: #9398f382;
+    text-align: center;
+    margin: 0 auto;
+    border-radius: 35px 35px 3px 3px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #525FE1;
+    
+}.card_content:hover i{
+    background: #525FE1;
+    color: #fff;
+}
+
+.accordion_content{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}.accordion_content span{
+    font-weight: bold;
+}.accordion_content h1{
+    font-size: 25px;
+}
+.accordion-item{
+    /* background-color: #000000; */
+    border: transparent;
+    /* background: #F5F5F5; */
+    border-radius: 10px;
+    padding: 15px 32px;
+    padding-right: 69px;
+  }
+  
+  .accordion-item hr{
+    border: 1px solid rgba(255, 255, 255, 0.5);
+  }.flex h3{
+    font-size: 25px;
+    font-weight: bold;
+    padding-left: 20px;
+  }
+  
+  .accordion-link{
+   font-size: 25px;
+    color: #231F40;
+    text-decoration: none;
+    background-color: #ede6e6;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem 0;
+    border-radius: 10px;
+  }.accordion-link i{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+    width: 32px;
+    height: 32px;
+    background: #FFFFFF;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.02);
+    line-height: 32px;
+    text-align: center;
+    border-radius: 100%;
+    color: #525FE1 !important;
+    margin-right: 10px;
+  }
+  
+  .accordion-link h3{
+    font-weight:500;
+    font-size: 20px;
+  }
+  
+  .accordion-link i{
+    color: #e7d5ff;
+    padding: .5rem;
+    
+  }
+  
+  .accordion-link ul{
+    display:flex;
+    align-items: flex-end;
+    list-style-type: none;
+    margin-left: 25px;
+  }
+  
+  .accordion-link li{
+    font-size: 10px;
+    color: rgba(255, 255, 255, 0.4);
+    padding: 0 0 1px 5px;
+  }
+  
+  .accordion-link div{
+    display: flex;
+  }
+  
+  .accordion-link .ion-md-arrow-down{
+    display: none;
+  }
+  
+  .answer{
+    max-height: 0;
+    overflow: hidden;
+    position: relative;
+    background-color: #fff;
+    transition: max-height 650ms;
+    color: #000000;
+    border-radius: 10px;
+    width: 800px;
+
+  }
+  
+  
+  
+  .answer p{
+    color: #000;
+    font-size: 15px;
+    padding: 2rem;
+    
+  }
+  
+  .accordion-item:target .answer{
+    max-height: 20rem;
+  }
+  
+  .accordion-item:target .accordion-link .ion-md-arrow-forward{
+    display: none
+  }
+  
+  .accordion-item:target .accordion-link .ion-md-arrow-down{
+    display: block;
+  }

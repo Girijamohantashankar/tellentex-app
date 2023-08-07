@@ -1,0 +1,23 @@
+.footer {
+        background: #231F40;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 200px;
+        padding: 50px;
+}
+.logo_image{
+    cursor: pointer;
+}.footer_home ul li{
+    cursor: pointer;
+    margin-top: 10px;
+}.footer_home ul li:hover span,.footer_home ul li:hover i{
+    color: #49408e !important;
+}
+.footer_home ul i{
+    padding-right: 10px;
+    color: #fff;
+}.footer_home ul span{
+    color: #fff;
+    font-weight: bold;
+}
